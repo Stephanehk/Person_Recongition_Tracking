@@ -13,8 +13,7 @@ One frame of processed footage:
 
 Possible displacement map (distance in km, time taken to get there)
 
-![Imgur](https://i.imgur.com/Zce4PGM.png)
-
+![Imgur](https://i.imgur.com/AdD9o3f.png)
 
 Area: Manhattan
 
